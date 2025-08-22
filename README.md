@@ -47,7 +47,7 @@ After installation, you can launch the application with a single command:
 Bash
 
 streamlit run app.py
-The app will open automatically in your default web browser at http://localhost:8503.
+The app will open automatically in your default web browser at http://localhost:8501.
 
 How to Use
 Add Transactions: Use the input fields in the sidebar to enter the details of a new transaction. Click "Add Transaction" to save it. The app will automatically categorize it for you.
